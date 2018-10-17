@@ -1,1 +1,9 @@
-<link href="//www.surf-forecast.com/stylesheets/widget.css" media="screen" rel="stylesheet" type="text/css" /><div class="wf-width-cont surf-fc-widget"><div class="widget-container"><div class="external-cont"><iframe class="surf-fc-i" allowtransparency="true" src="//www.surf-forecast.com/breaks/Pacific-City_Gas-Chambers/forecasts/widget/i" scrolling="no" frameborder="0" marginwidth="0" marginheight="0"></iframe><div class="footer"><a class="logo" href="//www.surf-forecast.com/"><img src="//www.surf-forecast.com/images/widget.png" alt="Widget" width="1" height="1" /></a><div class="about" id="cmt">View detailed surf forecast for <a href="//www.surf-forecast.com/breaks/Pacific-City_Gas-Chambers">Pacific City-Gas Chambers</a>. Visit <a href="//www.surf-forecast.com/breaks/Pacific-City_Gas-Chambers">surf-forecast.com</a> for more details, long range forecasts, surf reports, swell and weather maps.</div></div></div></div></div>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
