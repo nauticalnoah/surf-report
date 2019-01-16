@@ -1,6 +1,6 @@
 # surf-report
-its a surf report repository
-its sick
-its gnarly
-its dank
-its sick gnar
+it's a surf report repository,
+it's sick,
+it's gnarly,
+it's dank,
+it's sick gnar.
